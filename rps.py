@@ -1,7 +1,8 @@
 import random
 # Isaac Lynn
 # Period 4
-#Variables:
+# Added a comment
+# Variables:
 pScore = 0 
 cScore = 0
 ties = 0
